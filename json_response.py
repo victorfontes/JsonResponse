@@ -1,4 +1,5 @@
 # http://djangosnippets.org/snippets/154/
+# credits to http://djangosnippets.org/users/zakj/
 
 from django.core.serializers import json, serialize
 from django.db.models.query import QuerySet
